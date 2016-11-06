@@ -1,0 +1,7 @@
+c:\users\matthew\documents\visual studio 2013\Projects\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\Matthew\Documents\GitHub\FileSystem\FileSystem\bin\Debug\FileSystem.exe.config
+C:\Users\Matthew\Documents\GitHub\FileSystem\FileSystem\bin\Debug\FileSystem.exe
+C:\Users\Matthew\Documents\GitHub\FileSystem\FileSystem\bin\Debug\FileSystem.pdb
+C:\Users\Matthew\Documents\GitHub\FileSystem\FileSystem\obj\Debug\FileSystem.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\GitHub\FileSystem\FileSystem\obj\Debug\FileSystem.exe
+C:\Users\Matthew\Documents\GitHub\FileSystem\FileSystem\obj\Debug\FileSystem.pdb
